@@ -1,10 +1,4 @@
-Bagus! Karena kamu sudah berada di halaman pembuatan `README.md` langsung di GitHub, sekarang tinggal **copy-paste isi panduan instalasi** berikut ke dalam kolom tersebut.
 
----
-
-## ✅ **ISI README.md UNTUK PANDUAN INSTALASI**
-
-````markdown
 # 🌴 Sistem Pakar Kebun Sawit
 
 Aplikasi Android untuk membantu petani mendiagnosis penyakit pada tanaman kelapa sawit berdasarkan gejala yang terlihat, menggunakan pendekatan sistem pakar dengan metode Certainty Factor.
@@ -60,7 +54,10 @@ git clone https://github.com/iamrizkii/Sistem-Pakar-Kebun-Sawit.git
 ## 👥 Kontributor
 
 * [@iamrizkii](https://github.com/iamrizkii)
-* Dll (tambahkan nama temanmu jika kerja kelompok)
+* Kelompok Sistem Pakar Diagnosa Penyakit Kebun Sawit
+* Anggota : Saeful Rizky - 221001011
+*           Tia Jannatul Marwanda - 221001024
+*           Asmawati - 221001022
 
 ---
 
@@ -73,22 +70,3 @@ git clone https://github.com/iamrizkii/Sistem-Pakar-Kebun-Sawit.git
 
 ---
 
-## ✅ LANGKAH TERAKHIR
-
-1. Setelah kamu paste isi di atas,
-2. Scroll ke bawah,
-3. Isi kotak **"Commit new file"** misalnya:
-```
-
-Add README.md with installation guide
-
-```
-4. Klik **"Commit changes"**
-
-Selesai! 🎉  
-Sekarang halaman depan repositori GitHub-mu akan menampilkan README dengan panduan instalasi lengkap.
-
----
-
-Kalau kamu ingin menambahkan **screenshot aplikasi** ke README, saya bisa bantu juga. Mau?
-```
